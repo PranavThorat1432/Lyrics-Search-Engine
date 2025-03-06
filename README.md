@@ -16,7 +16,7 @@ A powerful and intuitive **Lyrics Search App** that allows users to search for s
 
 ## 🎯 Live Demo  
 
-🔗 **[Try it Live](#)** *(Replace with actual deployed link if available)*  
+🔗 **[Try it Live](https://lyrics-search-engine.vercel.app/)** 
 
 ---
 
