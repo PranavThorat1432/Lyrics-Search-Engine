@@ -37,9 +37,7 @@ A powerful and intuitive **Lyrics Search App** that allows users to search for s
 ![lyr2](https://github.com/user-attachments/assets/7062539a-9f8a-472d-92ea-532538b6b17d)
 
 ### 📜 Lyrics Display  
-![Lyrics Display](https://via.placeholder.com/800x400?text=Lyrics+Display)  
-
-*(Replace the placeholder images with actual screenshots of your project.)*  
+![lyr3](https://github.com/user-attachments/assets/94320a1c-38da-4274-bba4-6eb7c6f02b2b)
 
 ---
 
