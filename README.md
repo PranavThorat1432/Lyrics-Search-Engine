@@ -33,9 +33,8 @@ A powerful and intuitive **Lyrics Search App** that allows users to search for s
 ### 🎤 Home Page  
 ![lyr1](https://github.com/user-attachments/assets/2bc5eb53-69bb-4a05-947a-ad412974ce63)
 
-
 ### 🎼 Search Results  
-![Search Results](https://via.placeholder.com/800x400?text=Search+Results)  
+![lyr2](https://github.com/user-attachments/assets/7062539a-9f8a-472d-92ea-532538b6b17d)
 
 ### 📜 Lyrics Display  
 ![Lyrics Display](https://via.placeholder.com/800x400?text=Lyrics+Display)  
